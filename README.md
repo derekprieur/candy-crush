@@ -5,26 +5,29 @@ concepts used:
 
 ## JavaScript
   - querySelector()
-  - getElementById()
-  - array.push(), array.forEach(), array.some(), array.splice(), array.concat()
-  - Math.floor() & Math.random()
-  - createElement()
-  - classList.add(), classList.remove(), classList.contains()
-  - appendChild()
-  - addEventListener() & removeEventListener()
-  - setInterval() & clearInterval()
-  - e.keyCode
-  - innerHtml
-  - ternary operator
+  - createElement() & appendChild()
+  - setAttribute()
+  - classList.add()
+  - style.backgroundImage
+  - Math.floor & Math.random
+  - array.length, array.push(), array.includes(), array.forEach()
+  - this.
+  - parseInt()
+  - e.preventDefault()
+  - addEventListener('dragstart', 'dragend', 'dragover', 'dragenter', 'dragleave', 'drop')
+  - window.setInterval()
   
 ## HTML
   - google fonts
   - div containers
 
 ## CSS
+  - backgroundImage: url()
+  - background-repeat: no-repeat
+  - background-size: cover
   - display: flex
   - jusify-content: space-evenly
   - align-items: center
-  - flex-direction: row & column
+  - flex-direction: column
   - flex-wrap: wrap
   - borders
